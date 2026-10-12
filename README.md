@@ -37,8 +37,8 @@ I enjoy working closely with designers and backend engineers, sharing what I lea
 
 ## Let's talk
 
-💬 Happy to chat about React, TypeScript, frontend performance, or accessibility.
-📍 Stuttgart, DE
+* 💬 Happy to chat about React, TypeScript, frontend performance, or accessibility.
+* 📍 Stuttgart, DE
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://melike-portfolio-omega.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melike-yusufoglu/)
