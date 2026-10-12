@@ -7,7 +7,7 @@ Currently a Technologist II at **zigzag GmbH**, previously at Huawei and Etiya.
 - 🔭 Building modern, accessible UIs with React, TypeScript, and Tailwind CSS
 - 🌱 Expanding into back-end development with Node.js
 - 🌍 Based in Stuttgart, DE
-- 💬 Always open to talking shop about React, TypeScript, or front-end performance
+- 💬 Always open to talking about React, TypeScript, or front-end performance
 
 **Tech stack**
 
