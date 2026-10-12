@@ -13,10 +13,10 @@ Frontend developer based in Stuttgart, Germany. I have spent over six years buil
 
 ## What I'm focused on right now
 
-🔭 Writing cleaner, more accessible React and TypeScript
-🌱 Growing my backend skills with Node.js and MongoDB
-🇩🇪 Learning German, currently at B1
-🧪 Testing my code better with Jest
+* 🔭 Writing cleaner, more accessible React and TypeScript
+* 🌱 Growing my backend skills with Node.js and MongoDB
+* 🇩🇪 Learning German, currently at B1
+* 🧪 Testing my code better with Jest
 
 ## Tech stack
 
